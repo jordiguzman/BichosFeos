@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="appkite.jordiguzman.com.bichosfeos">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".fuente.Fuente"
+        android:allowBackup="true"
+        android:icon="@drawable/logo_peq"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MenuImagenes"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Portada"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MenuInicio"
+            android:configChanges="locale|orientation"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MenuInfo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.mantis.MantisPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.avispas.AvispasPager"
+
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.escarabajos.EscarabajosPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.coloreadas.ColoreadasPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Enlaces"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.mantis.EditarImagenMantis"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name=".touchImageView.ui.avispas.EditarImagenAvispas"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name=".touchImageView.ui.escarabajos.EditarImagenEscarabajos"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name=".Video"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name=".MenuVideo"
+            android:theme="@style/Theme.AppCompat" />
+        <activity
+            android:name=".VisorWeb"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Idioma"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Acerca"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".informacion.Tecnica"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".informacion.Informacion"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.tabanos.TabanosPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.gorgojos.GorgojosPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.grillos.GrillosPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.hormigas.HormigasPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.moscas.MoscasPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.polillas.PolillasPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".touchImageView.ui.saltamontes.SaltamontesPager"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".informacion.Imagenes"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>

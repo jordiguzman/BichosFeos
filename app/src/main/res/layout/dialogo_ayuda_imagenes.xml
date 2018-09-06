@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="top"
+    android:background="@android:color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:elevation="5dp"
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:targetApi="lollipop">
+        <ImageView
+
+            android:src="@drawable/bicho_00"
+            android:layout_width="30sp"
+            android:layout_height="30sp"
+            android:contentDescription="@string/logo" />
+        <TextView
+            android:textSize="24sp"
+            android:textColor="@android:color/white"
+            android:text="@string/dialogo_ayuda_titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:elevation="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="481dp"
+        tools:targetApi="lollipop">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:autoLink="all"
+                android:clickable="true"
+                android:textSize="@dimen/texto_dialogos_imagenes"
+                android:textColor="@android:color/black"
+                android:text="@string/dialogo_ayuda_texto_modelo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+        </ScrollView>
+
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

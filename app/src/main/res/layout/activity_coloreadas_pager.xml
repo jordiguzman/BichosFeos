@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@android:color/black"
+    tools:context=".touchImageView.ui.coloreadas.ColoreadasPager">
+
+    <appkite.jordiguzman.com.bichosfeos.touchImageView.ExtendedViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <TextView
+        android:textColor="@android:color/white"
+        android:id="@+id/tv_mantis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:backgroundTint="@color/colorAccent"
+        android:src="@mipmap/ic_home"
+        android:layout_above="@+id/tv_mantis"
+        android:layout_toRightOf="@+id/tv_mantis"
+        android:layout_toEndOf="@+id/tv_mantis"
+        android:layout_marginLeft="35dp"
+        android:layout_marginStart="35dp" />
+
+
+</RelativeLayout>

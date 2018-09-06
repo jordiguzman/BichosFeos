@@ -1,0 +1,314 @@
+<resources>
+    <string name="app_name">Bichos Feos</string>
+    <string name="title_activity_navegador_mantis" translatable="false">NavegadorMantis</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="section_format" translatable="false">Hello World from section: %1$d</string>
+    <string name="title_activity_galeria_mantis" translatable="false">GaleriaMantis</string>
+
+
+    <!--Nombre-->
+    <string name="nombre_app">BICHOS</string>
+    <string name="nombre_app1">FEOS</string>
+
+
+    <!--FRAGMENTOS-->
+
+
+    <string name="frag_imag_text">IMÁGENES</string>
+    <string name="frag_info_text">INFORMACIÓN</string>
+    <string name="frag_enlaces_text">ENLACES</string>
+    <string name="frag_video_text" translatable="false">VIDEOS</string>
+    <string name="frag_acerca_de_text">ACERCA DE</string>
+    <string name="frag_idioma_text">IDIOMA</string>
+
+    <!--Fragmentos imagenes-->
+
+    <string name="frag_pulga">Pulga de gato</string>
+    <string name="frag_piojo">Piojo</string>
+    <string name="frag_mosca">Mosca de la fruta</string>
+    <string name="frag_mosquito">Ojo de un mosquito</string>
+    <string name="frag_imagenes">Imágenes variadas</string>
+    <string name="frag_imagenes1">Imágenes variadas</string>
+
+
+    <string name="frag_imag_mantis">Mantis religiosa</string>
+    <string name="frag_imag_avispas">Avispas, Abejas</string>
+    <string name="frag_imag_escarabajos">Escarabajos</string>
+    <string name="frag_imag_tabanos">Tábanos</string>
+    <string name="frag_imag_gorgojos">Gorgojos</string>
+    <string name="frag_imag_grillos">Grillos</string>
+    <string name="frag_imag_Hormigas">Hormigas</string>
+    <string name="frag_imag_moscas">Moscas</string>
+    <string name="frag_imag_polillas">Polillas</string>
+    <string name="frag_imag_saltamontes">Saltamontes</string>
+    <string name="frag_imag_colore">Imágenes coloreadas</string>
+
+
+    <string name="frag_imag_mantis2" translatable="false">Mantidae</string>
+    <string name="frag_imag_avispas2" translatable="false">Hymenoptera</string>
+    <string name="frag_imag_escarabajos2" translatable="false">Coleoptera</string>
+    <string name="frag_imag_tabanos2" translatable="false">Tabanidae</string>
+    <string name="frag_imag_gorgojos2" translatable="false">Curculionidae</string>
+    <string name="frag_imag_grillos2" translatable="false">Gryllidae</string>
+    <string name="frag_imag_Hormigas2" translatable="false">Formicidae</string>
+    <string name="frag_imag_moscas2" translatable="false">Diptera</string>
+    <string name="frag_imag_polillas2" translatable="false">Heterocera</string>
+    <string name="frag_imag_saltamontes2" translatable="false">Caelifera</string>
+
+
+    <!--Fragmentos Informacion-->
+
+
+    <string name="frag_teoria">Teoría</string>
+    <string name="frag_tecnica">Tecnicas</string>
+    <string name="frag_imagenes_info">Imágenes</string>
+
+    <!--Fragmentos idiomas-->
+
+    <string name="espanol" translatable="false">Español</string>
+    <string name="ingles" translatable="false">English</string>
+
+
+    <!--NOMBRES INSECTOS-->
+
+
+    <!--MANTIS-->
+
+    <string name="mantis">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis2">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis3">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis4">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis5">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis6">Mantis religiosa (Mantis religiosa religiosa)</string>
+    <string name="mantis7">Mantis religiosa (Mantis religiosa religiosa)</string>
+
+    <!--Avispas y abejas-->
+
+    <string name="avispa">Avispa Roja (Pepsini)</string>
+    <string name="avispa2">Avispa (Hymenoptera)</string>
+    <string name="avispa3">Abejorro carpintero (Xylocopa)</string>
+    <string name="avispa4">Avispa excavadora (Sphex)</string>
+    <string name="avispa5">Avispa parásita (Braconidae)</string>
+    <string name="avispa6">Avispa parásita (Ichneumonidae)</string>
+    <string name="avispa7">Avispa parásita (Ichneumonidae)</string>
+    <string name="avispa8">Avispa parásita. Netelia producta (Tryphoninae)</string>
+
+    <!--Escarabajos-->
+
+    <string name="escarabajo">Escarabajo polifago (Phalacridae)</string>
+    <string name="escarabajo2">Mariquita (Coccinellidae)</string>
+    <string name="escarabajo3">Mariquita, detalle de una pata (Coccinellidae)</string>
+    <string name="escarabajo4">Escarabajo de suelo (Carabidae)</string>
+    <string name="escarabajo5">Escarabajo pelotero (Scarabaeus viettei)</string>
+    <string name="escarabajo6">Escarabajo clik de ojos (Alaus oculatus)</string>
+    <string name="escarabajo7">Escarabajo Hércules del este (Dynastes tityus)</string>
+    <string name="escarabajo8">Escarabajo longicornio (Cerambycidae)</string>
+    <string name="escarabajo9">Cucaracha (Blattodea)</string>
+    <string name="escarabajo10">Escarabajo rinoceronte (Dynastinae)</string>
+
+    <!--Tábanos-->
+
+    <string name="tabano">Tabano (Tabanidae)</string>
+    <string name="tabano2">Tabano (Tabanidae)</string>
+    <string name="tabano3">Tabano (Tabanidae)</string>
+    <string name="tabano4">Tabano (Tabanidae)</string>
+    <string name="tabano5">Tábano gigante (Tabanus sudeticus)</string>
+
+    <!--Gorgojos-->
+
+    <string name="gorgojo">Gorgojo (Curculio nucum)</string>
+    <string name="gorgojo2">Gorgojo (Curculio nucum)</string>
+    <string name="gorgojo3">Gorgojo (Curculio nucum)</string>
+    <string name="gorgojo4">Gorgojo del arroz (Sitophilus oryzae)</string>
+    <string name="gorgojo5">Gorgojo del bambu (Dryophthorinae)</string>
+    <string name="gorgojo6">Gorgojo Proecini (Orthotemnus longitarsus)</string>
+
+    <!--Grillos-->
+
+    <string name="grillo">Grillo Camello (Rhaphidophoridae)</string>
+    <string name="grillo2">Grillo topo del Norte (Gryllotalpidae)</string>
+    <string name="grillo3">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo4">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo5">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo6">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo7">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo8">Grillo topo (Gryllotalpidae)</string>
+    <string name="grillo9">Grillo topo del Norte (Gryllotalpidae)</string>
+
+    <!--Hormigas-->
+
+    <string name="hormiga">Hormiga de felpa (Mutillidae)</string>
+    <string name="hormiga2">Hormiga León (Myrmeleontidae)</string>
+    <string name="hormiga3">Hormiga León (Myrmeleontidae)</string>
+    <string name="hormiga4">Hormiga León (Myrmeleontidae)</string>
+    <string name="hormiga5">Hormiga León (Myrmeleontidae)</string>
+    <string name="hormiga6">Hormiga roja de fuego (Solenopsis invicta)</string>
+
+    <!--Moscas-->
+
+    <string name="mosca">Mosca asesina (Asilidae)</string>
+    <string name="mosca2">Mosca asesina (Asilidae)</string>
+    <string name="mosca3">Mosca asesina (Asilidae)</string>
+    <string name="mosca4">Mosca asesina (Dysmachus trigonus)</string>
+    <string name="mosca5">Mosca asesina (Dysmachus trigonus)</string>
+    <string name="mosca6">Mosca abeja (Bombylius)</string>
+    <string name="mosca7">Mosca común (Musca domestica)</string>
+    <string name="mosca8">Mosca de Midas (Mydidae)</string>
+
+    <!--Polillas-->
+
+    <string name="polilla">Polilla halcón (Manduca quinquemaculata)</string>
+    <string name="polilla2">Polilla común de la ropa (Tineola bisselliella)</string>
+    <string name="polilla3">Polilla gris (Sphinx ligustri)</string>
+    <string name="polilla4">Polilla gris (Sphinx ligustri)</string>
+    <string name="polilla5">Polilla gris (Sphinx ligustri)</string>
+    <string name="polilla6">Polilla gris (Sphinx ligustri)</string>
+    <string name="polilla7">Polilla mosca (Clogmia albipunctata)</string>
+
+    <!--Saltamontes-->
+
+    <string name="saltamontes">Saltamontes (Acrididae)</string>
+    <string name="saltamontes2">Saltamontes (Acrididae)</string>
+    <string name="saltamontes3">Saltamontes (Acrididae)</string>
+    <string name="saltamontes4">Saltamontes (Acrididae)</string>
+    <string name="saltamontes5">Saltamontes (Acrididae)</string>
+    <string name="saltamontes6">Saltamontes (Acrididae)</string>
+    <string name="saltamontes7">Saltamontes (Caelifera)</string>
+
+    <!--Coloreadas-->
+
+    <string name="coloreadas">Acaro Aceria (Aceria anthocoptes)</string>
+    <string name="coloreadas2">Acaro amarillo (Tydeidae Lorryia)</string>
+    <string name="coloreadas3">Acaro del queso (Tyrophagus putrescentiae)</string>
+    <string name="coloreadas4">Acaro falso de la sarna (Pyemotes tritici)</string>
+    <string name="coloreadas5">Acaro pavo real (Tuckerella)</string>
+    <string name="coloreadas6">Avispa parasita (Encyrtidae)</string>
+    <string name="coloreadas7">Avispa parasitoide (Parasitica)</string>
+    <string name="coloreadas8">Caballito del diablo (Pyrrhosoma nymphula)</string>
+    <string name="coloreadas9">Chinche (Cimex lectularius)</string>
+    <string name="coloreadas10">Escarabajo del maíz  (Tribolium castaneum)</string>
+    <string name="coloreadas11">Gorgojo del cafe (Hypothenemus hampei)</string>
+    <string name="coloreadas12">Gusano de seda (Bombyx mori)</string>
+    <string name="coloreadas13">Larva de Efimera  (Baetis sp.)</string>
+    <string name="coloreadas14">Larva de escarabajo buceador (Dytiscus marginalis)</string>
+    <string name="coloreadas15">Larva de Mosca verde (Calliphora vomitoria)</string>
+    <string name="coloreadas16">Larva de mosquito de la fiebre amarilla (Aedes aegypti)</string>
+    <string name="coloreadas17">Mosquito de la fiebre amarilla (Aedes aegypti)</string>
+    <string name="coloreadas18">Polilla (Heterocera)</string>
+    <string name="coloreadas19">Probóscide de una mariposa (Lepidoptera)</string>
+    <string name="coloreadas20">Pulga de gato (Ctenocephalides felis)</string>
+    <string name="coloreadas21">Pulga de la rata oriental (Xenopsylla cheopis)</string>
+    <string name="coloreadas22">Pulga de perro (Ctenocephalides canis)</string>
+    <string name="coloreadas23">Tardígrado (Tardigrada)</string>
+
+
+    <!--************************************************************************************-->
+
+
+    <!--ACTIVITIES -->
+
+    <string name="enlaces">En estos enlaces podrás encontrar más información sobre los microscópios electrónicos de barrido (SEM)
+     y a páginas dedicadas a mostrar imágenes.\n\n http://www.uglybug.org/ </string>
+
+
+    <string name="salir">Toca otra vez para salir</string>
+
+    <!--Información -->
+    <string name="teoria1">\n<b>DESCRIPCIÓN</b>\n\nEl microscopio electrónico de barrido (MEB o SEM, por Scanning Electron Microscope) es una técnica de microscopía electrónica capaz de producir imágenes de alta resolución de la superficie de una muestra utilizando las interacciones electrón-materia. Utiliza un haz de electrones en lugar de un haz de luz para formar una imagen.\n
+
+\nApoyándose en los trabajos de Max Knoll de los años 1930 fue Manfred von Ardenne quien logró inventar el MEB en 1937 que consistía en un haz de electrones que barría la superficie de la muestra a analizar, que, en respuesta, reemitía algunas partículas. Estas partículas son analizadas por los diferentes sensores que hacen que sea posible la reconstrucción de una imagen tridimensional de la superficie.\n
+
+\nLos trabajos realizados en la década de 1960 en el laboratorio de Charles William Oatley, en la Universidad de Cambridge, contribuyeron en gran medida al desarrollo del MEB, y dieron lugar en 1965 a la comercialización, por parte de Cambridge Instrument Co., de los primeros microscopios de barrido.1 Hoy en día, la microscopía electrónica de barrido se utiliza en campos que van desde la biología a la ciencia de los materiales, pasando por la arqueología, y muchos fabricantes ofrecen aparatos de serie equipados con detectores de electrones secundarios y cuya resolución se sitúa entre 0, 4 y 20 nanómetros.\n
+
+\nLos MEB poseen una gran profundidad de campo, que permite enfocar a la vez gran parte de la muestra. También producen imágenes de alta resolución, de forma que las características más ínfimas de la muestra pueden ser examinadas con gran amplificación. La preparación de las muestras es relativamente fácil ya que la mayoría de los MEB sólo requieren que estas sean conductoras. La muestra generalmente se recubre con una capa de carbono o una capa delgada de un metal, como el oro, para darle carácter conductor. Posteriormente, se barre la superficie con electrones acelerados que viajan a través del cañón. Un detector formado por lentes basadas en electroimanes, mide la cantidad e intensidad de los electrones que devuelve la muestra, siendo capaz de mostrar figuras en tres dimensiones mediante imagen digital.\n\n</string>
+    <string name="teoria2">\n<b>FUNCIONAMIENTO</b>\n\nEn el microscopio electrónico de barrido es necesario acelerar los electrones en un campo eléctrico, para aprovechar de esta manera su comportamiento ondulatorio, lo cual se lleva a cabo en la columna del microscopio, donde se aceleran mediante una diferencia de potencial que puede ir desde 50 hasta 30 000 voltios. Los electrones acelerados por un voltaje pequeño se utilizan para muestras muy sensibles, como podrían ser las muestras biológicas sin preparación adicional o muestras muy aislantes. Los voltajes elevados se utilizan para muestras metálicas, ya que éstas en general no sufren daños como las biológicas y de esta manera se aprovecha la menor longitud de onda para tener una mejor resolución. Los electrones acelerados salen del cañón, y se enfocan mediante las lentes condensadora y objetiva, cuya función es reducir la imagen del filamento, de manera que incida en la muestra un haz de electrones lo más pequeño posible (para así tener una mejor resolución). Con las bobinas deflectoras se barre este fino haz de electrones sobre la muestra, punto por punto y línea por línea.\n
+
+\nCuando el haz incide sobre la muestra, se producen muchas interacciones entre los electrones del mismo haz y los átomos de la muestra; puede haber, por ejemplo, electrones que reboten como las bolas de billar. Por otra parte, la energía que pierden los electrones al "chocar" contra la muestra puede hacer que otros electrones salgan despedidos (electrones secundarios), y producir rayos X, electrones Auger, etc. El más común de éstos es el que detecta electrones secundarios, y es con el que se hacen la mayoría de las imágenes de microscopios de barrido.
+
+\n\nTambién podemos adquirir la señal de rayos X que se produce cuando se desprenden estos mismos de la muestra, y posteriormente hacer un análisis espectrográfico de la composición de la muestra.\n\n</string>
+    <string name="teoria3">\n<b>UTILIZACIÓN</b>\n\nSe utilizan ampliamente en la biología celular. Aunque permite una menor capacidad de aumento que el microscopio electrónico de transmisión, éste permite apreciar con mayor facilidad texturas y objetos en tres dimensiones que se hayan pulverizado con un metal antes de su observación. Por esta razón solamente pueden observarse organismos muertos, y no se puede ir más allá de la textura externa que se quiera ver. Los microscopios electrónicos sólo pueden ofrecer imágenes en blanco y negro puesto que no utilizan la luz visible.\n
+
+\nEste instrumento permite la observación y caracterización superficial de materiales inorgánicos y orgánicos, entregando información morfológica del material analizado. A partir de él se producen distintos tipos de señal que se generan desde la muestra y se utilizan para examinar muchas de sus características. Con él se pueden observar los aspectos morfológicos de zonas microscópicas de diversos materiales, además del procesamiento y análisis de las imágenes obtenidas.\n\n</string>
+
+    <string name="tecnica" formatted="false">\n<b>PREPARACIÓN DE LAS MUESTRAS</b>\n\nDeshidratación: las muestras se deshidratarán en una serie de baños de etanol de concentración creciente hasta etanol absoluto. Posteriormente se llevarán a acetona al 100%, previo paso por una mezcla de 50% etanol/acetona al 100%. Las muestras permanecerá entre 10 y 15\' en cada baño, pero si alguna de éstas fuera muy grande sería conveniente que permanezca un mayor tiempo.\n\nDesecación: las muestras que estaban en acetona (líquido de intermediario) se introducen en un baño de Hexametildisilizano (HMDS) (líquido de transición), que es el producto químico que va a permitir una desecación al aire muy rápida, prácticamente súbita, sin que se vea la morfología de la muestra alterada. Las muestras deben estar en este   agente   químico   entre   10   y   15\', aunque   al   igual   que   indicamos en el   paso anterior, si la muestra es grande se necesitaría un mayor tiempo de permanencia. Una vez transcurrido este tiempo la muestra se sitúa sobre un papel secante y se deja secar al aire hasta estar seguros que sea desecado completamente. Para saberlo, la muestra quedará suelta del papel secante adquiriendo un color pálido o blanquecino y aspecto quebradizo. Con   mucho   cuidado,   cogeremos   la   muestra   con unas pinzas y la situaremos sobre uno de los pedestales metálicos, a los que previamente se le habrá puesto cinta adhesiva conductora de doble capa. Una vez colocados ya están preparados para el siguiente paso.\n\nMetalización: las muestras desecadas y colocadas en su pedestal se llevarán para que sean metalizadas con Au-Pd. Una vez realizada la metalización, ya podrán analizarse al SEM.\n\nLas muestras de origen biológico que por su naturaleza carecen de humedad o, bien, son lo suficientemente resistentes para que no pierdan su estructura y organización tras un tiempo prolongado al aire, no requieren de ningún método de desecación o deshidratación. Aunque si es importante una limpieza de su superficie de grasas u otros impurezas, utilizando para ello etanol o acetona al 100%. En ocasiones, puede ser convenientemente dejar las muestras cierto tiempo en una estufa para asegurarnos que está completamente secas. Ejemplo de este tipo de material que se podrán estudiar son las uñas, el pelo, algunas fibras naturales manufacturadas, etc.\n\n</string>
+
+
+    <!--Dialogos-->
+    <string name="dialogo_titulo">BICHOS FEOS</string>
+    <string name="dialogo_info">\nEn esta app podrás ver imágenes realizadas con un microscopio electrónico de barrido (SEM)
+    de diferentes insectos con un gran nivel de detalle. Están en la sección \"Imágenes\" y ordenados segun su orden taxonómico.
+        También hay una selección de imágenes coloreadas.\n\nEn la seción \"Información\" encontrarás datos de como se realizan estas
+        imágenes e información tecnica sobre los instrumentos
+    usados.\n\nEn la sección \"Enlaces\" hay una selección de páginas web con información e imágenes algunas de las cuales han sido de donde he sacado las fotografías.\n\nEn la sección \"Videos\" tienes videos con animaciones en 3D coloreadas, dos tal, y como se ven realmente, y una selección de imagenes.\n\nSi quieres volver a ver este texto solo tienes que pulsar el icono de la App, en otras pantallas no te saldrá la información y ayuda hasta que no lo pulses.\n\n</string>
+
+
+    <string name="dialogo_imagenes_titulo">IMÁGENES</string>
+    <string name="dialogo_imagenes_texto">\nEn esta sección encontrarás imágenes realizadas con un microscópio electrónico de vacío (SEM) de diferentes insectos (mantis, avispas…).
+        Todas las fotografías son ampliables.\nLa pantalla se puede girar en panorámico para un mejor visionado desde tablet.
+        \n\nDada la obtención de las imágenes no siempre se ha podido establecer con exactitud el nombre de la especie concreta,
+        es posible que haya algún error. Esta app no está hecha por un entomólogo (es una app, basicamente, de imágenes) y si alguien encuentra algún fallo lo puede notificar en la sección \'Acerca de\'.\n\nEn lo que respecta a los enlaces a la
+        Wikipedia no siempre ha sido posible encontrar la entrada en español de la especie, por lo que se ha optado por enlazar a la Wikipedia en inglés.\n\n</string>
+
+
+    <string name="dialogo_salir">Salir</string>
+
+    <string name="dialogo_ayuda_titulo">AYUDA</string>
+    <string name="dialogo_ayuda_texto">\nPara saber el nombre del insecto has de tocar la imagen. Una vez aparezca el nombre puedes pulsar el botón de la Wikipedia en donde
+    encontrarás toda la información. \n\nTambien tienes un botón (el de la flecha) para bajarte todo el contenido en imagenes de la sección.
+        Lo encontrarás en la sección \"Descargas\" de tu móvil. \n\nEl archivo
+    se bajará en formato .zip y para verlo tendrás que descomprimirlo primero utilizando la app RAR.
+        \n\nAqui te la puedes descargar desde Play Store: "https://play.google.com/store/apps/details?id=com.rarlab.rar"
+    \n\nTodas las fotografías de esta sección estan sacadas de la pagina \"Ugly Bugs\" (en la sección de \'Enlaces\' se puede visitar la web) y no informan sobre la especie concreta de la que se trata.
+        \n\nNo obstante, como todos los especimenes son de Oklahoma es de suponer que la especie es \'Mantis religiosa religiosa\'
+        la cual es la más común (si no la única) en los EEUU.\n\n</string>
+
+    <string name="dialogo_ayuda_texto_modelo">\nPara saber el nombre del insecto has de tocar la imagen. Una vez aparezca el nombre puedes pulsar el botón de la Wikipedia en donde
+    encontrarás toda la información. \n\nTambien tienes un botón (el de la flecha) para bajarte todo el contenido en imagenes de la sección.
+        Lo encontrarás en la sección \"Descargas\" de tu móvil. \n\nEl archivo
+    se bajará en formato .zip y para verlo tendrás que descomprimirlo primero utilizando la app RAR.
+        \n\nAqui te la puedes descargar desde Play Store: "https://play.google.com/store/apps/details?id=com.rarlab.rar"</string>
+
+    <string name="dialogo_informacion_titulo">INFORMACIÓN</string>
+    <string name="dialogo_informacion" formatted="false">\nEn esta sección encontrás información técnica de como funcionan los microscopios electrónicos de barrido (SEM por sus siglas en ingles), su historia y las diversas utilizaciones que de ellos se hacen.
+    \n\nTambién de como se deben de tratar las muestras que deben ser observadas por los SEM.\n\nLos textos de las dos primeras secciones están sacados de la Wikipedia: "https://es.wikipedia.org/wiki/Microscopio_electr%C3%B3nico_de_barrido".
+        \n\nEl texto de como se tratan las muestras para su correcta visualización en los SEM está redactado por el profesor Nicolás Ubero Pascal de la Universidad de Murcia.
+    \n\nTambíen hay una selección de imágenes de diversos tipos de SEM.\n\n\n</string>
+
+    <!--GridView-->
+    <string name="titulo_actividad_detalle" translatable="false">Actividad De Detalle</string>
+
+    <string name="nombre_transicion_imagen" translatable="false">imagen_compartida</string>
+    <string name="title_activity_main" translatable="false">MainActivity</string>
+    <string name="title_activity_informacion" translatable="false">Informacion</string>
+    <string name="title_activity_mantis_view_pager" translatable="false">MantisViewPager</string>
+    <string name="no_network_connection_toast">Sin conexsión a la red</string>
+
+    <!--Toast-->
+    <string name="CheckInternet">¡No tienes conexión a Internet!</string>
+    <string name="CheckInternet1">No verás ni imágenes ni vídeos</string>
+    <string name="mensajePager">Toca la imágen para saber su nombre, ir a la Wikipedia o bajarte el contenido.</string>
+    <string name="imagenes_sem">Imagenes SEM</string>
+    <string name="guardar" translatable="false">guardar</string>
+    <string name="mantisMenu" translatable="false">MM</string>
+    <string name="menu" translatable="false">M</string>
+    <string name="tab" translatable="false">Tab</string>
+    <string name="logo" translatable="false">Logo</string>
+    <string name="servidor">Hay un problema con el servidor</string>
+
+    <!--Menu enlaces-->
+
+    <string name="enlace_ugly" translatable="false"><b>UGLY BUGS</b></string>
+    <string name="enlace_telegraph" translatable="false"><b>THE TELEGRAPH</b></string>
+    <string name="enlace_micronaut" translatable="false"><b>MICRONAUT</b></string>
+    <string name="enlace_dartmouth" translatable="false"><b>DARTMOUTH COLLEGE</b></string>
+    <string name="enlace_mundoMicroscopio" translatable="false"><b>MUNDO AL MICROSCÓPIO</b></string>
+    <string name="enlace_macromite" translatable="false"><b>MACROMITE\'S BLOG</b></string>
+    <string name="enlace_cosmos" translatable="false"><b>COSMOS MAGAZINE</b></string>
+    <string name="enlace_sem_BLOG" translatable="false"><b>SCANNING ELECTRON MICROSCOPE BLOG</b></string>
+    <string name="enlace_nikon" translatable="false"><b>NIKON SMALL WORLD</b></string>
+
+    <!--Acerca de-->
+    <string name="acerca"><b>BICHOS FEOS</b>\n\nVersión 1.0\n\nJordi Guzmán Piferrer\n\nWEB: "http://jordiguzman.com/"\n\nEMAIL: jordiguz@gmail.com</string>
+    <string name="problema_idioma">Hay un problema con el idioma</string>
+
+</resources>

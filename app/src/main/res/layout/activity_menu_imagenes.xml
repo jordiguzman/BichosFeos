@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_info">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/menu_inicio"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior"
+        tools:context="appkite.jordiguzman.com.bichosfeos.MenuImagenes">
+
+
+        <fragment
+            android:id="@+id/frag_mantis"
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_mantis"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            android:tag="mantis"
+            tools:layout="@layout/frag_imagenes_mantis" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_avispas"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_avispas" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_escarabajos"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_escarabajo" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_tabanos"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_tabano" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_gorgojos"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_gorgojo" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_grillos"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_grillos" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_hormigas"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_hormigas" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_moscas"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_moscas" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_polillas"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_polillas" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_saltamontes"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_saltamontes" />
+
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_coloreadas"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_coloreadas" />
+        <fragment
+            class="appkite.jordiguzman.com.bichosfeos.fragments.fragment_imagenes.Frag_img_vacio"
+            android:layout_width="match_parent"
+            android:layout_height="70sp"
+            tools:layout="@layout/frag_imagenes_vacio" />
+
+
+    </LinearLayout>
+</ScrollView>

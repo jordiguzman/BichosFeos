@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/imagenes_avispas"
+    android:elevation="6dp"
+    android:orientation="vertical">
+
+
+
+
+    <TextView
+        android:id="@+id/tv_img_avispas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:paddingStart="50sp"
+        android:text="@string/frag_imag_avispas"
+        android:textColor="@android:color/white"
+        android:textSize="24sp"
+        android:onClick="irAvispas" />
+
+    <TextView
+        android:id="@+id/tv_img_avispas2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/tv_img_avispas"
+        android:paddingStart="50sp"
+        android:textStyle="italic"
+        android:text="@string/frag_imag_avispas2"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:onClick="irAvispas" />
+
+    <ImageView
+        android:id="@+id/iv_img_avispas_touch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:onClick="irAvispas" />
+
+</RelativeLayout>

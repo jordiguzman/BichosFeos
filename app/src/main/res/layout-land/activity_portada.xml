@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context="appkite.jordiguzman.com.bichosfeos.Portada">
+
+    <ImageView
+
+        android:id="@+id/iv_portada"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/tv_portada"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre_app"
+        android:textSize="40sp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_portada"
+        app:layout_constraintTop_toTopOf="@+id/iv_portada"
+        app:layout_constraintRight_toLeftOf="@+id/guideline2" />
+
+
+    <TextView
+        android:id="@+id/tv_portada1"
+        android:textColor="@android:color/white"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/nombre_app1"
+        android:textSize="40sp"
+        android:textStyle="bold"
+
+        app:layout_constraintLeft_toLeftOf="@+id/guideline2"
+        app:layout_constraintBottom_toBottomOf="@+id/iv_portada"
+        app:layout_constraintTop_toTopOf="@+id/iv_portada" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:id="@+id/iv_bicho"
+        android:layout_height="wrap_content"
+        android:minHeight="109dp"
+        android:minWidth="80dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="8dp"
+        app:layout_constraintLeft_toLeftOf="@+id/iv_portada"
+        app:layout_constraintRight_toRightOf="@+id/iv_portada" />
+
+    <android.support.constraint.Guideline
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/guideline2"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteY="0dp"
+        tools:layout_editor_absoluteX="342dp"
+        app:layout_constraintGuide_percent="0.50073206" />
+
+
+</android.support.constraint.ConstraintLayout>

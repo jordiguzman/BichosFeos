@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:gravity="top"
+    android:background="@android:color/white"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+
+        android:orientation="horizontal"
+        android:elevation="5dp"
+        android:background="@color/colorAccent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+
+            android:src="@drawable/bicho_00"
+            android:layout_width="30sp"
+            android:layout_height="30sp" />
+        <TextView
+            android:textSize="24sp"
+            android:textColor="@android:color/white"
+            android:text="@string/dialogo_titulo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:elevation="9dp"
+        android:layout_width="match_parent"
+        android:layout_height="184dp">
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <TextView
+                android:paddingLeft="@dimen/activity_horizontal_margin"
+                android:paddingRight="@dimen/activity_horizontal_margin"
+                android:textColor="@android:color/black"
+                android:text="@string/dialogo_info"
+                android:textSize="22sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+        </ScrollView>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:orientation="horizontal"
+        android:elevation="9dp"
+        android:background="@color/colorAccent"
+        android:gravity="center_vertical|center_horizontal">
+
+        <Button
+            android:id="@+id/btn_borra"
+            android:textSize="18sp"
+            android:textColor="@android:color/black"
+            android:background="@color/transparent"
+            android:text="@string/dialogo_salir"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_horizontal"
+            android:onClick="borra" />
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

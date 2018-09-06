@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#ffbf00</color>
+
+
+
+    <!--Paleta general-->
+
+    <color name="imagenes">#901d4029</color>
+    <color name="informacion">#902e6f44</color>
+    <color name="enlaces1">#90913a32</color>
+    <color name="video1">#90956032</color>
+    <color name="idiomas1">#90998932</color>
+    <color name="acerca">#90869d32</color>
+
+    <!--Video-->
+
+    <color name="video_2">#90a57851</color>
+    <color name="video_3">#90b28c6b</color>
+    <color name="video_4">#90bd9d81</color>
+    <color name="video_5">#90c7ac94</color>
+    <color name="video_6">#90cfb8a4</color>
+
+
+
+
+
+    <!--Colores Menu   900 700 500 300 100 BLUE -->
+
+    <color name="menu_img">#800D47A1</color>
+    <color name="menu_info">#801976D2</color>
+    <color name="enlaces">#802196F3</color>
+    <color name="video">#8037a5fc</color>
+    <color name="idiomas">#8064B5F6</color>
+    <color name="acerca_de">#80BBDEFB</color>
+
+    <!--Colores Imagenes-->
+    <color name="imagenes_mantis">#90011307</color>
+    <color name="imagenes_avispas">#90021e0b</color>
+    <color name="imagenes_escarabajos">#90043112</color>
+    <color name="imagenes_tabanos">#90064519</color>
+    <color name="imagenes_gorgojos">#90085b21</color>
+    <color name="imagenes_grillos">#900a732a</color>
+    <color name="imagenes_hormigas">#900c8a32</color>
+    <color name="imagenes_moscas">#900ea43b</color>
+    <color name="imagenes_polillas">#9011be45</color>
+    <color name="imagenes_saltamontes">#9014d14d</color>
+    <color name="imagenes_coloreadas">#9016e755</color>
+
+    <!--Colores video-->
+
+    <color name="pulga">#90644021</color>
+    <color name="piojo">#907a4e29</color>
+    <color name="mosca">#90976134</color>
+    <color name="mosquito">#90bc7941</color>
+    <color name="varios">#90dd8e4d</color>
+    <color name="varios2">#90f49d56</color>
+
+    <!--Colores Informacion-->
+
+    <color name="teoria">#902e6f44</color>
+    <color name="tecnica">#9046a465</color>
+    <color name="imagenes_info">#9053c278</color>
+
+    <!--Colores idiomas-->
+
+    <color name="espanol">#90998932</color>
+    <color name="ingles">#90beaa3f</color>
+
+
+
+    <!--Color base menu-->
+    <color name="base_menu">#10000000</color>
+
+
+    <!--Toolbar-->
+    <color name="toolbar">#000000</color>
+
+    <!--Colores animacion-->
+    <color name="transparent">#00FFFFFF</color>
+    <color name="color_menu_principal">#20ffffff</color>
+    <color name="color_aviso_dialogo_inicio">#7b7b7b</color>
+
+    <!--Colores enlaces-->
+
+    <color name="lista_opaco">#90913A32</color>
+
+
+
+</resources>

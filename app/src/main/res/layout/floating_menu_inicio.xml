@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    tools:context="appkite.jordiguzman.com.bichosfeos.MenuInicio">
+
+
+
+    <include layout="@layout/activity_menu_inicio" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        app:backgroundTint="@color/colorAccent"
+        android:layout_margin="@dimen/fab_margin"
+        android:elevation="7dp"
+        android:src="@drawable/foto_vacia"
+        tools:targetApi="lollipop" />
+
+    <RelativeLayout
+        android:paddingTop="@dimen/margen_vertical"
+        android:paddingLeft="@dimen/margen_horizontal"
+        android:paddingRight="@dimen/margen_horizontal"
+
+        android:id="@+id/contenedor_menu_inicio"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        />
+
+</android.support.design.widget.CoordinatorLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_img"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/tecnica"
+    android:elevation="9dp"
+    android:orientation="vertical">
+
+
+    <TextView
+
+        android:id="@+id/tv_tecnica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:paddingStart="50sp"
+        android:text="@string/frag_tecnica"
+        android:textColor="@android:color/white"
+        android:textSize="24sp" />
+
+
+    <ImageView
+        android:id="@+id/iv_tecnica_touch"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</RelativeLayout>

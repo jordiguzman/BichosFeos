@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img_menu_video"
+    tools:context="appkite.jordiguzman.com.bichosfeos.informacion.Tecnica">
+
+
+    <ScrollView
+        android:layout_margin="35dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:ignore="UselessParent">
+
+        <TextView
+            android:background="@drawable/borders"
+            android:padding="@dimen/activity_horizontal_margin"
+
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/tv_info_tecnica"
+            tools:text="@string/tecnica" />
+    </ScrollView>
+
+
+</RelativeLayout>
